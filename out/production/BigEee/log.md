@@ -13,4 +13,6 @@ I've gotten the hang of it; sort of. I've coded on intellij a few times before, 
 
 I changed the name, source, and file structure of the code; now it's much more neat, readable, compressible, and runnable; the whole package. I'm currently watching my neighbor have a stroke on a flight simulator now instead of coding, brb.
 
-Close: 17/3/21 13:
+Ok I'm back. I made a flowchart for the window/frame structure. Hope to implement it as soon as I learn the java.awt toolkit under control. Peace.
+
+Close: 17/3/21 13:58
